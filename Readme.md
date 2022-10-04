@@ -102,10 +102,10 @@ Y con un método post enviaremos username y password, las cuales si son válidas
 
 Solicitud
 
-![[Screenshot_20221004_125203.jpg]]
+![[https://i.postimg.cc/HnrmbYv6/Screenshot-20221004-125203.jpg]]
 
 Respuesta
 
-![[Screenshot_20221004-124934.jpg]]
+![[https://i.postimg.cc/WpqFYTS0/Screenshot-20221004-124934.jpg]]
 
 Así de sencillo podemos tener un api trabajando con jwt, sencilla y fácil de implementar en otros proyectos.
